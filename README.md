@@ -9,7 +9,7 @@
 ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=FFFFFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&)
 ![Figma](https://img.shields.io/badge/-Figma-141130?style=flat-square&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-141130?style=flat-square&logo=Photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-141130?style=flat-square&logo=AdobePhotoshop)
 
 ---
 ##### Мои контакты:
