@@ -15,6 +15,8 @@
 ##### Мои контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram)](https://t.me/stanislav1324)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurovdigital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
