@@ -21,7 +21,7 @@
 ---
 ##### Мои контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/stanislav1324)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-141130?style=for-the-badge&logo=Gmail)](mailto:yurovdigital@gmail.com)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurovdigital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
