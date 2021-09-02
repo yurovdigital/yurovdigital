@@ -20,7 +20,7 @@
 
 ---
 ##### Мои контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/stanislav1324)
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yurovdigital)
 [![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:yurovdigital@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/yurovdigital)
 
