@@ -2,7 +2,7 @@
 ##### Меня зовут Станислав, я начинающий веб-разработчик!
 
 ---
-##### Мой стек:
+#### Мой стек:
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=for-the-badge&logo=CSS3&logoColor=009900)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
@@ -19,7 +19,7 @@
 [![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://mesto-yd.vercel.app/)
 
 ---
-##### Мои контакты:
+#### Мои контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yurovdigital)
 [![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:yurovdigital@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/yurovdigital)
