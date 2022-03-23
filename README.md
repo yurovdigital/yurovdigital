@@ -27,7 +27,7 @@
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://how-to-learn-yd.vercel.app/)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://russian-travel-yd.vercel.app/)
 [![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://mesto-yd.vercel.app/)
-[![Mesto Backend](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/yurovdigital/express-mesto)
+[![Mesto Backend](https://img.shields.io/badge/-Mesto-Backend-141130?style=for-the-badge)](https://github.com/yurovdigital/express-mesto)
 [![Movies Explorer](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/yurovdigital/movies-explorer-frontend)
 [![Movies Explorer Backend](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/yurovdigital/movies-explorer-api)
 
