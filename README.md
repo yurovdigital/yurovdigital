@@ -38,10 +38,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/yurovdigital)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurovdigital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
----
 ![macOS](https://img.shields.io/static/v1?label=macOS&message=user&color=141130&labelColor=ffffff&style=for-the-badge)
 
 
