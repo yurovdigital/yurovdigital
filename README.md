@@ -1,15 +1,19 @@
-### Hi there 👋
-#### Меня зовут Станислав, я начинающий веб-разработчик!
+## Hi there 👋
+#### Меня зовут Станислав, я начинающий Front-end разработчик!
+Закончил курс "Веб-разработчик" Яндекс.Практикум. 
+В данный момент активно изучаю NEXT.js.
+Также занимаюсь версткой одностраничных сайтов и лэндингов.
 
 ---
-#### Мой стек:
-![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
-![CSS3](https://img.shields.io/badge/-CSS3-141130?style=for-the-badge&logo=CSS3&logoColor=009900)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-141130?style=for-the-badge&logo=React)
+![NEXT.JS](https://img.shields.io/badge/-NEXTJS-141130?style=for-the-badge&logo=nextdotjs&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-141130?style=for-the-badge&logo=HTML5&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/-CSS3-141130?style=for-the-badge&logo=CSS3&logoColor=009900)  
 ![Node.js](https://img.shields.io/badge/-Node.js-141130?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-141130?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141130?style=for-the-badge&logo=MongoDB)
+![Strapi](https://img.shields.io/badge/-Strapi-141130?style=for-the-badge&logo=strapi)
 ![API](https://img.shields.io/badge/-API-141130?style=for-the-badge)
 
 #### Умею пользоваться:
@@ -22,7 +26,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141130?style=for-the-badge&logo=AdobePhotoshop)
 
 
-#### Мои проекты:
+#### Учебные проекты в Яндекс.Практикум:
 
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/yurovdigital/how-to-learn)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/yurovdigital/russian-travel)
@@ -32,7 +36,7 @@
 [![Movies Explorer Backend](https://img.shields.io/badge/-Movies_Explorer_Backend-141130?style=for-the-badge)](https://github.com/yurovdigital/movies-explorer-api)
 
 ---
-#### Мои контакты:
+#### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yurovdigital)
 [![Gmail](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:yurovdigital@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/yurovdigital)
@@ -40,20 +44,3 @@
 ---
 ![macOS](https://img.shields.io/static/v1?label=macOS&message=user&color=141130&labelColor=ffffff&style=for-the-badge)
 
-
-<!--
-**yurovdigital/yurovdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![ProfileViews](https://komarev.com/ghpvc/?username=yurovdigital&style=for-the-badge&color=141130)
--->
