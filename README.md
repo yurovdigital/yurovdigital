@@ -29,12 +29,13 @@
 
 #### Учебные проекты в Яндекс.Практикум:
 
-[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/yurovdigital/how-to-learn)
-[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/yurovdigital/russian-travel)
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/yurovdigital/mesto-react)
-[![Mesto Backend](https://img.shields.io/badge/-Mesto_Backend-141130?style=for-the-badge)](https://github.com/yurovdigital/express-mesto)
 [![Movies Explorer](https://img.shields.io/badge/-Movies_Explorer-141130?style=for-the-badge)](https://github.com/yurovdigital/movies-explorer-frontend)
 [![Movies Explorer Backend](https://img.shields.io/badge/-Movies_Explorer_Backend-141130?style=for-the-badge)](https://github.com/yurovdigital/movies-explorer-api)
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/yurovdigital/mesto-react)
+[![Mesto Backend](https://img.shields.io/badge/-Mesto_Backend-141130?style=for-the-badge)](https://github.com/yurovdigital/express-mesto)
+[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/yurovdigital/russian-travel)
+[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/yurovdigital/how-to-learn)
+
 
 ---
 #### Контакты:
